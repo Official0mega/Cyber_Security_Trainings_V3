@@ -1,0 +1,7 @@
+1. --- Fill in the Blank ---
+A computer  virus is malicious ____________________ that interferes with computer operations and causes damage.
+
+2. What are one way that the Moris Worm helped shaped the security?
+
+3. Social Engineering, such as Phishing, is a manipulation technique that relies on computer error to gain private information
+access or valuables.. True / False.
