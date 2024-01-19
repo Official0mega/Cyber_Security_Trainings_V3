@@ -25,7 +25,7 @@
 * Propangada
 * Social Change Campaigns
 * Fame.
-Types of Hat Hackers....
+## Types of Hat Hackers....
 1. Green Hat
 2. Blue Hat
 3. Grey Hat
