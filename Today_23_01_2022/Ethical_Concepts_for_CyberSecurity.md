@@ -1,0 +1,3 @@
+## Ethical Concerns and Laws Related to CounterAttacks....
+* Deploying a counter attack on a threat actor is illegal.
+    + The act of count
